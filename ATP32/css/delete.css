@@ -1,3 +1,28 @@
 body{
-    background: #5F9EA0;
+    background: #48D1CC;
+}
+div{
+    background: #FFFFFF;
+    width: 70%;
+    margin: 50px auto 20px;
+    padding: 20px 50px;
+    text-align: center;
+    border-radius: 10px;
+}
+h1{
+    color:#800080 ;
+    text-transform: uppercase;
+    font-size: 26px;
+}
+h2{
+    color:#800080;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+a{
+    color:#800080;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-decoration: none;
+    border-radius: 12px;
 }
