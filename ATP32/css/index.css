@@ -8,6 +8,12 @@ div{
     padding: 20px 50px;
     text-align: center;
     border-radius: 10px;
+  
+}
+div span{
+    color:#259e00;
+    font-size: 26px;
+    
 }
 h1{
     color:#800080 ;
@@ -25,4 +31,12 @@ a{
     text-transform: capitalize;
     text-decoration: none;
     border-radius: 12px;
+}
+a button{
+    background: #800080;
+    color: #259e00;
+    display: inline-block;
+    height: 35px;
+    width: 50%;
+    cursor: pointer;
 }

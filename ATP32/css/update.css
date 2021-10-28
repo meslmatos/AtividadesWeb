@@ -26,3 +26,27 @@ a{
     text-decoration: none;
     border-radius: 12px;
 }
+form{
+    margin: 30px auto;
+    width: 40%;
+    padding: 20px 5%;
+    text-align: left;
+}
+
+input{
+    margin-top: 5px;
+    font-size: 18px;
+    line-height: 28px;
+    width: 70%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: inline-block;
+}
+input[type="submit"], button{
+    cursor: pointer;
+    background: #259e00;
+    color: #fff;
+    display: inline-block;
+    height: 35px;
+    width: 35%;
+}
